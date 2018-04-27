@@ -5,6 +5,5 @@ Make sure to install the "node_modules" folder, along with this repository, into
 **make sure to install npm packages NOT as root.**
 
 **solhint package is also useful for any errors regarding compiler version**
-==>
-https://github.com/protofire/solhint
+(Found Here ==> https://github.com/protofire/solhint)
 
